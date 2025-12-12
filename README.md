@@ -21,7 +21,7 @@
 **📅 Fecha:** Diciembre 2025  
 **📖 Materia:** Física - Electrostática - Unidad 5 
 
-**🎯 Título del proyecto:** *Modelado del Campo Eléctrico de un Dipolo con Python - Simulador Interactivo*
+**🎯 Título del proyecto:** *Modelado del Campo Eléctrico con Python*
 
 ---
 
