@@ -14,7 +14,6 @@ eléctrico (dos cargas de igual magnitud y signo opuesto). Permite modificar
 interactivamente la posición y separación de las cargas usando una interfaz
 gráfica moderna con CustomTkinter.
 """
-
 import tkinter as tk
 import customtkinter as ctk
 import numpy as np
@@ -445,9 +444,9 @@ class SimuladorCampoElectrico:
         )
         marco_canvas.pack(side=tk.LEFT, fill=tk.BOTH, expand=True)
         
-        # Crear figura de matplotlib
-        self.fig, self.ax = plt.subplots(figsize=(8, 8), facecolor='#2c3e50')
-        self.ax.set_facecolor('#34495e')
+        # Crear figura de matplotlib con fondo blanco
+        self.fig, self.ax = plt.subplots(figsize=(8, 8), facecolor='white')
+        self.ax.set_facecolor('white')
         
         # Integrar matplotlib en tkinter
         self.canvas_mpl = FigureCanvasTkAgg(self.fig, master=marco_canvas)
