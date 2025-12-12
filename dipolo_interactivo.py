@@ -2,8 +2,11 @@
 PROYECTO UNIDAD 5: ELECTROSTÁTICA
 Modelado del campo eléctrico con Python - DIPOLO ELÉCTRICO INTERACTIVO
 
-Autor: [Tu nombre aquí]
-Grupo: [Tu grupo]
+Autor: [LOPEZ BARRERA GUSTAVO ARISTOTELES
+        MARTINEZ VALENZUELA FERNANDO
+        CARACOSA BIRRUETA SILVER NAIM
+        VEGA MENDOZA ALDO SALVADOR]
+Grupo: [EQUIPO FISICA]
 Fecha: Diciembre 2025
 
 Descripción: Este programa simula el campo eléctrico producido por un dipolo
