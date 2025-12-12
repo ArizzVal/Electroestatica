@@ -394,16 +394,16 @@ Ver en **tiempo real** cómo responde el campo a los cambios reforzó significat
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/0" width="110" height="110" style="border-radius:50%; border: 3px solid #4CAF50;">
+      <img src="[https://avatars.githubusercontent.com/u/0](https://avatars.githubusercontent.com/u/137434511?v=4)" width="110" height="110" style="border-radius:50%; border: 3px solid #4CAF50;">
       <br>
-      <strong>[Tu nombre]</strong>
+      <strong>[Gustavo Aritoteles Lopez Barrera]</strong>
       <br>
       Desarrollador principal
     </td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/0" width="110" height="110" style="border-radius:50%; border: 3px solid #2196F3;">
       <br>
-      <strong>[Tu profesor]</strong>
+      <strong>[Rogelio Cuevas Torres]</strong>
       <br>
       Asesor del proyecto
     </td>
