@@ -401,7 +401,7 @@ Ver en **tiempo real** cómo responde el campo a los cambios reforzó significat
       Desarrollador principal
     </td>
     <td align="center">
-      <img src="https://tse4.mm.bing.net/th/id/OIP.Do1G4kMTOAUEshSDnb0NQAAAAA?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3" width="110" height="110" style="border-radius:50%; border: 3px solid #2196F3;">
+      <img src="https://tse4.mm.bing.net/th/id/OIP.Do1G4kMTOAUEshSDnb0NQAAAAA?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3" width="140" height="110" style="border-radius:50%; border: 3px solid #2196F3;">
       <br>
       <strong>Rogelio Cuevas Torres</strong>
       <br>
