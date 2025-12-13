@@ -111,6 +111,7 @@ $$\vec{E}_{total} = \vec{E}_{+q} + \vec{E}_{-q}$$
 📁 Proyecto
 ├── 📄 dipolo_interactivo.py    # Código principal
 ├── 📄 README.md                 # Este archivo
+├── 📄 ModeloCampoElectricoDipolo.ipynb #Codigo en Google Colab
 ├── 📸 figura1_dipolo_horizontal.png
 └── 📸 figura2_dipolo_vertical.png
 ```
@@ -415,7 +416,7 @@ Ver en **tiempo real** cómo responde el campo a los cambios reforzó significat
 ## 🪪 Licencia
 
 Este proyecto fue desarrollado con fines educativos para la materia de **Electrostática**.  
-Universidad: ITSA - Diciembre 2025
+ITSA - Diciembre 2025
 
 ---
 
