@@ -13,6 +13,8 @@ Descripción: Este programa simula el campo eléctrico producido por un dipolo
 eléctrico (dos cargas de igual magnitud y signo opuesto). Permite modificar
 interactivamente la posición y separación de las cargas usando una interfaz
 gráfica moderna con CustomTkinter.
+
+
 """
 import tkinter as tk
 import customtkinter as ctk
