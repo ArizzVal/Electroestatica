@@ -224,7 +224,7 @@ python dipolo_interactivo.py
 
 ### Figura 1: Dipolo en Configuración Horizontal
 
-![Dipolo Horizontal](figura1_dipolo_horizontal.png)
+![Dipolo Horizontal](Horizontal.png)
 
 **Configuración:**
 - Carga positiva: (-1.0, 0.0)
@@ -253,7 +253,7 @@ python dipolo_interactivo.py
 
 ### Figura 2: Dipolo en Configuración Vertical
 
-![Dipolo Vertical](figura2_dipolo_vertical.png)
+![Dipolo Vertical](Dipolovertical.png)
 
 **Configuración:**
 - Carga positiva: (0.0, -1.5)
